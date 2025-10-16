@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Venkat</h1>
 <h3 align="center">Passionate about problem-solving and technology, with a focus on developing innovative solutions and contributing to meaningful projects. Full Stack Web Dev, AI ML</h3>
-
+<h3 align="center">Open to Work. Looking for Internship + PPO opportunities. Ex - SWE Intern @ Summit Horizons LLC</h3>
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=venkat-737&label=Profile%20views&color=0e75b6&style=flat" alt="venkat-737" /> 
 </p>
